@@ -1,3 +1,5 @@
 # Repositorio de Práctica DevOps
 "Este respositorio contiene ejercicios para el curso de DevOps"
-echo "- Contribución realizada a través de un pull request" >> README.md
+ "- Contribución realizada a través de un pull request" 
+ 
+ACTUALIZACION URGENTE: Todos los sistemas operativos.
